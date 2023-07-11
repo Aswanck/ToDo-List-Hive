@@ -71,7 +71,6 @@ class _HomePageState extends State<HomePage> {
         },
         child: const Icon(Icons.add),
       ),
-      //floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       backgroundColor: Colors.yellow[200],
       appBar: AppBar(
         title: const Text('TODO LIST'),
